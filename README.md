@@ -12,3 +12,9 @@ Python, SQL, Azure, AWS, Spark, PyTorch, scikit-learn and Hugging Face.
 📚 - Currently learning more about Generative AI and Algorithm Design.
 
 
+You can find me on other social media platforms:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/george-williamson)
+&nbsp;
+[![Medium](https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/CMYK/Medium-Symbol-White-CMYK%401x.png) Medium](https://medium.com/@g.williamson) 
+
+
