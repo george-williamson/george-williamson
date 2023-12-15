@@ -1,4 +1,4 @@
-Hi there, welcome to my GitHub profile :wave:
+# Hi there, welcome to my GitHub profile :wave:
 
 This is where I store my personal projects, document learnings and bookmark interesting open source projects.
 
