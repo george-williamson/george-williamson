@@ -4,7 +4,8 @@ This is where I like to store my personal projects, document learnings and bookm
 
 💼 - I currently work at Accenture, where I work on projects related to data science & machine learning.
 
-👨‍💻 - The tooling, languages and frameworks I predominantly use these days are Python, SQL, Azure, AWS, Spark, PyTorch, scikit-learn and Hugging Face.
+👨‍💻 - The tooling, languages and frameworks that I predominantly use these days include:
+Python, SQL, Azure, AWS, Spark, PyTorch, scikit-learn and Hugging Face.
 
 📍 - Based in London, UK :uk:
 
